@@ -43,7 +43,7 @@
             display-name = "Lower";
             bindings = <
 &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &kp LC(KP_DIVIDE)  &kp C_PREVIOUS  &kp C_NEXT  &kp LC(KP_ASTERISK)  &kp LC(KP_MINUS)  &trans
-&trans      &trans        &trans        &trans        &trans        &trans                          &trans             &kp LS(N9)      &kp RA(F9)  &kp RA(N9)           &trans            &trans
+&trans      &trans        &trans        &trans        &trans        &trans                          &trans             &kp LS(N9)      &kp RA(N0)  &kp RA(N9)           &trans            &trans
 &trans      &trans        &kp RA(N8)    &kp RA(N7)    &kp LS(N8)    &trans                          &trans             &kp LEFT        &kp UP      &kp DOWN             &kp RIGHT         &trans
 &trans      &trans        &trans        &trans        &trans        &trans        &trans    &trans  &trans             &trans          &trans      &trans               &trans            &trans
                                         &trans        &trans        &trans        &trans    &trans  &trans             &trans          &trans
