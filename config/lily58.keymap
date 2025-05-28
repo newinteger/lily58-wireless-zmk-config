@@ -43,7 +43,7 @@
             display-name = "Lower";
             bindings = <
 &bt BT_CLR      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &kp LC(KP_DIVIDE)  &kp C_PREVIOUS  &kp C_NEXT  &kp LC(KP_ASTERISK)   &kp LC(KP_MINUS)  &trans
-&kp CAPSLOCK    &trans        &kp F1        &kp F2        &kp F3        &kp F4                          &trans             &trans          &trans      &kp QUESTION          &trans            &kp LEFT_BRACKET
+&kp CAPSLOCK    &trans        &kp F1        &kp F2        &kp F3        &kp F4                          &trans             &trans          &trans      &kp SLASH             &trans            &kp LEFT_BRACKET
 &kp LEFT_SHIFT  &trans        &kp F5        &kp F6        &kp F7        &kp F8                          &trans             &kp LS(COMMA)   &kp LS(N0)  &kp NON_US_BACKSLASH  &kp SEMICOLON     &kp SINGLE_QUOTE
 &kp LCTRL       &trans        &kp F9        &kp F10       &kp F11       &kp F12       &trans    &trans  &trans             &trans          &trans      &trans                &trans            &trans
                                             &trans        &trans        &trans        &trans    &trans  &kp LEFT_ALT       &kp RIGHT_ALT   &trans
