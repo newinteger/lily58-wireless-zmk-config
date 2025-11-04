@@ -56,8 +56,8 @@
             display-name = "Lower";
             bindings = <
 &bt BT_CLR      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                    &kp C_PREVIOUS  &kp LC(KP_DIVIDE)  &kp C_NEXT      &kp LC(KP_ASTERISK)   &kp LC(KP_MINUS)  &trans
-&kp CAPS        &trans        &kp F1        &kp F2        &kp F3        &kp F4                          &trans          &trans             &kp SLASH       &trans                &trans            &kp RA(NUMBER_8)
-&kp LEFT_SHIFT  &trans        &kp F5        &kp F6        &kp F7        &kp F8                          &trans          &kp LS(COMMA)      &kp LS(N0)      &kp NON_US_BACKSLASH  &kp LS(NUMBER_8)  &kp RA(NUMBER_7)
+&kp CAPS        &trans        &kp F1        &kp F2        &kp F3        &kp F4                          &trans          &trans             &kp SLASH       &trans                &trans            &kp RA(NUMBER_9)
+&kp LEFT_SHIFT  &trans        &kp F5        &kp F6        &kp F7        &kp F8                          &trans          &kp LS(COMMA)      &kp LS(N0)      &kp NON_US_BACKSLASH  &kp LS(NUMBER_9)  &kp RA(NUMBER_0)
 &kp LCTRL       &trans        &kp F9        &kp F10       &kp F11       &kp F12       &trans    &trans  &trans          &trans             &kp LEFT_ARROW  &kp UP_ARROW          &kp DOWN_ARROW    &kp RIGHT_ARROW
                                             &trans        &trans        &trans        &trans    &trans  &kp LEFT_ALT    &kp RIGHT_ALT      &trans
             >;
